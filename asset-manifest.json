@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-native-app/static/css/main.976b319e.css",
+    "main.js": "/react-native-app/static/js/main.ade1efa4.js",
+    "static/js/453.5d2ee4b3.chunk.js": "/react-native-app/static/js/453.5d2ee4b3.chunk.js",
+    "index.html": "/react-native-app/index.html",
+    "main.976b319e.css.map": "/react-native-app/static/css/main.976b319e.css.map",
+    "main.ade1efa4.js.map": "/react-native-app/static/js/main.ade1efa4.js.map",
+    "453.5d2ee4b3.chunk.js.map": "/react-native-app/static/js/453.5d2ee4b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.976b319e.css",
+    "static/js/main.ade1efa4.js"
+  ]
+}
