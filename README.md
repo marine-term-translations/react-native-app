@@ -545,20 +545,9 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Marine Science Community** - For domain expertise
-- **Translation Contributors** - For linguistic contributions
-- **Expo Team** - For the amazing development platform
-- **React Navigation** - For navigation solution
-- **GitHub** - For OAuth and API access
-
 ## 🔗 Related Projects
 
 - **[React Front-End](https://github.com/marine-term-translations/React-Front-End)** - Web application
 - **Backend API** - Server-side component
 - **Translation Memory** - Shared translation resources
 
----
-
-**Built with ❤️ for the marine science community**
